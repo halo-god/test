@@ -1,0 +1,2 @@
+git config --global user.name 'halo-god'
+git config --global user.mail '56593479+halo-god@users.noreply.github.com'
